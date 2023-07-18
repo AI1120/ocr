@@ -1,0 +1,1 @@
+python transform_example.py --image 2.png --coords "[(57, 230), (285, 100), (75, 374), (346, 240)]"
